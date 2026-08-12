@@ -18,3 +18,115 @@ nav_order: 2
 {% bibliography %}
 
 </div>
+
+<!-- Local customizations: style and script to (1) show "forthcoming" group first and (2) make the year number more visible and placed on the left. -->
+
+<style>
+/* Basic fallback styling in case JS selectors differ from the generated markup.
+   We style any year-like heading inside .publications to be black and bold.
+*/
+.publications h1, .publications h2, .publications h3, .publications h4, .publications h5, .publications h6 {
+  color: inherit; /* keep default unless JS marks it */
+}
+
+/* When JS applies the .pf-year class, this makes it stand out on the left. */
+.pf-year {
+  color: #000 !important;
+  font-weight: 700 !important;
+  float: left;
+  margin-right: 1.25rem;
+  font-size: 1.25rem;
+}
+
+/* Ensure group content clears the floated year and is indented so it doesn't overlap. */
+.pf-group {
+  clear: both;
+  padding-left: 4rem;
+  margin-bottom: 1.5rem;
+}
+</style>
+
+<script>
+// Reorder and restyle the publications page after the bibliography is rendered.
+// We use DOM operations rather than overriding gem-owned templates so this is
+// a minimal local change. The selectors are defensive: if the theme renders
+// different tags the script will attempt reasonable fallbacks.
+
+document.addEventListener('DOMContentLoaded', function () {
+  const container = document.querySelector('.publications');
+  if (!container) return;
+
+  // Find top-level group nodes. A group is assumed to be a node that contains
+  // a heading (h1..h6) followed by sibling content. We'll collect immediate
+  // children and partition them into groups based on heading elements.
+  const children = Array.from(container.children);
+  const groups = [];
+  let currentGroup = null;
+
+  children.forEach(node => {
+    const isHeading = /H[1-6]/.test(node.tagName);
+    if (isHeading) {
+      // Start a new group
+      currentGroup = { heading: node, nodes: [] };
+      groups.push(currentGroup);
+    } else {
+      if (!currentGroup) {
+        // If bibliography output places everything inside a single wrapper, try to
+        // find headings inside that wrapper instead.
+        const innerHeadings = node.querySelectorAll('h1,h2,h3,h4,h5,h6');
+        if (innerHeadings.length > 0) {
+          innerHeadings.forEach(h => {
+            const g = { heading: h, nodes: [h.nextElementSibling].filter(Boolean) };
+            groups.push(g);
+          });
+        }
+      } else {
+        currentGroup.nodes.push(node);
+      }
+    }
+  });
+
+  // If we didn't detect groups by scanning immediate children, try to detect by
+  // finding headings anywhere inside the container and using their parent as group.
+  if (groups.length === 0) {
+    const headings = Array.from(container.querySelectorAll('h1,h2,h3,h4,h5,h6'));
+    headings.forEach(h => {
+      const parent = h.parentElement;
+      groups.push({ heading: h, nodes: [parent] });
+    });
+  }
+
+  // Helper: normalize heading text
+  const headingText = h => (h && h.textContent || '').trim().toLowerCase();
+
+  // Move any group whose heading includes 'forthcoming' (or similar) to the front.
+  for (let i = 0; i < groups.length; i++) {
+    const text = headingText(groups[i].heading);
+    if (text.includes('forthcoming') || text.includes('in press') || text.includes('forthcoming.')) {
+      const groupEl = groups[i].heading.parentElement || groups[i].nodes[0];
+      if (groupEl) {
+        container.insertBefore(groupEl, container.firstChild);
+      }
+      break; // only move the first matching group
+    }
+  }
+
+  // Restyle numeric-year headings to appear on the left.
+  const allHeadings = container.querySelectorAll('h1,h2,h3,h4,h5,h6');
+  allHeadings.forEach(h => {
+    const txt = headingText(h);
+    // Match a 4-digit year or the word 'forthcoming'
+    if (/\b\d{4}\b/.test(txt) || txt === 'forthcoming' || txt.includes('in press')) {
+      // Add helper classes that our CSS targets.
+      h.classList.add('pf-year');
+      const parent = h.parentElement;
+      if (parent) parent.classList.add('pf-group');
+    }
+  });
+
+  // As a final safety: for lists where the year is part of a heading followed by a UL,
+  // ensure the UL is not floated next to the year.
+  const uls = container.querySelectorAll('ul');
+  uls.forEach(ul => { ul.style.clear = 'both'; ul.style.marginTop = '0.25rem'; });
+});
+</script>
