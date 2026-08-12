@@ -1,178 +1,139 @@
+# RenderCV-formatted CV data generated from the previous free-form _data/cv.yml
+# Schema follows a JSONResume-like / RenderCV-friendly structure.
+# Edit fields as needed. This file is used when cv_format: rendercv on the CV page.
 
-(updated August 2026)
+basics:
+  name: "Eric Fabri"
+  label: "Assistant Professor (History of Political Ideas)"
+  email: "eric.fabri@unil.ch"
+  phone: "+32/(0)472.28.94.01"
+  website: "https://ericfabri.github.io"
+  profiles:
+    - network: Academia
+      url: "https://ulb.academia.edu/EricFabri"
+    - network: ResearchGate
+      url: "https://www.researchgate.net/profile/Eric_Fabri"
+  summary: |
+    Assistant Professor (tenure track) in History of Political Ideas. Research
+    on property, democracy, ontology, and the political implications of the
+    ontological/‘living’ turn. Publications include a 2023 monograph on private
+    property and a number of peer-reviewed articles and edited volumes. See the
+    publications section below for highlights and the publications page for the
+    full bibliography.
+  location:
+    address: "Centre Walras Pareto, Géopolis, CH-1015 Lausanne, Switzerland"
 
-1. Contact
+contact_note: "You can even add a little note about which of these is the best way to reach you."
 
-Name and surname : Eric Fabri	
-Mailing address: Centre Walras Pareto, Géopolis, CH-1015 Lausanne, Switzerland
-Mobile: +32/(0)472.28.94.01
-Email : eric.fabri@unil.ch / eric.fabri@ulb.be 
-Personal page:  
-Academia: https://ulb.academia.edu/EricFabri 
-Research Gate: https://www.researchgate.net/profile/Eric_Fabri 
-2. Employment and Education
+work:
+  - company: "Université de Lausanne"
+    position: "Assistant Professor (tenure-track), History of Political Ideas"
+    startDate: "2026"
+    endDate: "present"
+    summary: "Appointment since 2026. Teaching and research in political thought."
+  - company: "Université libre de Bruxelles"
+    position: "Postdoctoral Researcher / Chargé de recherche FNRS"
+    startDate: "2024"
+    endDate: "2026"
+    summary: "Postdoc research on property, democracy, and political ontology."
+  - company: "Université libre de Bruxelles"
+    position: "Postdoctoral Researcher"
+    startDate: "2020"
+    endDate: "2024"
+    summary: "Research and teaching in political theory (interrupted 2021-22 for BAEF fellowship)."
+  - company: "Harvard University"
+    position: "BAEF Postdoctoral Fellow, Department of Government"
+    startDate: "2021"
+    endDate: "2022"
+  - company: "University of Oxford"
+    position: "Wiener-Anspach Postdoctoral fellow, Department of Politics and International Relations"
+    startDate: "2019"
+    endDate: "2020"
+  - company: "Université libre de Bruxelles"
+    position: "Teaching Assistant / PhD Candidate, Department of Political Science"
+    startDate: "2012"
+    endDate: "2019"
 
-2.1. Employment                                                   (Anti-chronological order)
+education:
+  - institution: "Université libre de Bruxelles"
+    area: "PhD, Political Science"
+    startDate: "2012"
+    endDate: "2019"
+    summary: "PhD dissertation: 'From Property to Autonomy: is Private Property a Democratic Institution'"
+  - institution: "Université Catholique de Louvain"
+    area: "Master in Philosophy (120 ECTS)"
+    startDate: "2009"
+    endDate: "2012"
+    score: "Grande Distinction (Magna cum laude)"
+  - institution: "Université Catholique de Louvain"
+    area: "Master in Political Sciences (120 ECTS)"
+    startDate: "2009"
+    endDate: "2011"
+    score: "Grande Distinction (Magna cum laude)"
+  - institution: "Facultés universitaires Saint-Louis (UCLouvain Saint-Louis Bruxelles)"
+    area: "Bachelor in Political Sciences"
+    startDate: "2006"
+    endDate: "2009"
+    score: "Distinction (Cum laude)"
+  - institution: "Facultés universitaires Saint-Louis"
+    area: "Bachelor in Philosophy"
+    startDate: "2006"
+    endDate: "2009"
+    score: "Grande distinction (Magna cum laude)"
 
-Full time :
-Since 2026 : Assistant Professor (tenure track) in History of Political Ideas, Université de Lausanne.  
-2024-2026: Postdoctoral Researcher, Chargé de recherche FNRS, Université libre de Bruxelles.
-2020-2021; 2022-2024: Postdoctoral Researcher, Faculty of Philosophy and Social Sciences, Université libre de Bruxelles (one year interruption in 2021-22 for the BAEF postdoc).
-2021-2022: BAEF Postdoctoral Fellow, Harvard University, Department of Government.
-2019-2020: Wiener-Anspach Postdoctoral fellow, University of Oxford, Department of Politics and International Relations. 
-2012-2019: Teaching Assistant, PHD Candidate, Université libre de Bruxelles, Department of Political Science. Centre de théorie politique (CTP). 
--	PhD dissertation : « De la propriété à l’autonomie : la propriété privée est-elle une institution démocratique ? » (From Property to Autonomy: is Private Property a Democratic Institution?), Sup. Jean-Yves Pranchère (ULB) and Justine Lacroix (ULB), Alice Seghers Prize (2019) for the best PhD dissertation in social sciences. Rewritten and partly published in: Pourquoi la propriété privée?
-Part time employment 
-2020-2025: Guest Professor, University of Antwerp. Course: “Political Thought” (0.1 ETP).
-2024-2026: Guest Professor, Université de Namur. Course: “Philosophie économique et politique” (0.1 ETP).
-Summer School 2022: Teaching Assistant, Harvard University, “Introduction to Political Philosophy”.
+publications:
+  books:
+    - title: "Pourquoi la propriété privée ?"
+      publisher: "Le Bord de l’eau"
+      year: 2023
+      notes: "Monographie"
+    - title: "Théorie démocratique de la propriété"
+      publisher: "Éditions Elliott"
+      year: 2027
+      notes: "Contract signed — forthcoming"
+  edited_books:
+    - title: "Autonomie ou Barbarie, la démocratie radicale de Cornélius Castoriadis et ses défis contemporains"
+      editors: "(co-ed. with Manuel Cervera-Marzal)"
+      publisher: "Editions du Passager Clandestin"
+      year: 2015
+    - title: "Souveraineté et néolibéralisme"
+      editors: "(co-ed. with Thomas Boccon-Gibod, Martine Kaluszinsky, Odile Tourneux)"
+      publisher: "Le Bord de l’eau"
+      year: 2023
 
-2.2. Education			        
+  selected_articles:
+    - title: "Legitimating property rights in a Property-Owning Democracy"
+      journal: "Diacritica"
+      year: 2015
+      pages: "43-64"
+    - title: "Inheritance and Wealth Transfers: the Case for a Capital Accession Tax"
+      journal: "Journal of Public Policy"
+      year: 2026
+      url: "https://doi.org/10.1017/S0143814X25100895"
+    - title: "The End of Democracy: Castoriadis and the Heteronomization Process"
+      journal: "Theory, Culture and Society"
+      year: 2026
 
-2012-2019: PhD, Université libre de Bruxelles, Department of Political Science.
-2009-2012: Master degree in Philosophy (120 ECTS), Université Catholique de Louvain, Grande Distinction (Magna cum laude). 
-2009-2011: Master degree in Political Sciences (120 ECTS), Université Catholique de Louvain, Grande Distinction (Magna cum laude). 
-2006-2009: Bachelor degree in Political Sciences, Facultés universitaires Saint-Louis (now UCLouvain Saint-Louis Bruxelles); Distinction (Cum laude).
-Bachelor degree in Philosophy, Facultés universitaires Saint-Louis, Grande distinction (Magna cum laude).
+awards:
+  - title: "Wiener-Anspach Postdoctoral Fellowship"
+    year: 2019
+  - title: "BAEF Postdoctoral Fellowship (Harvard)"
+    year: 2021
 
-3. Academic Achievements: 
+skills:
+  - Political Theory
+  - Democratic Theory
+  - Political Ontology
+  - Academic Writing
 
-3.1 Publications
+projects:
+  - name: "Debating Inheritance Tax in Europe"
+    role: "Co-editor (with Simon Watteyne)"
+    status: "Forthcoming 2027"
 
-Chronological order. All publications as single author, except when stated otherwise. 
-
-Books : 
-Monographies: 
-1. Pourquoi la propriété privée ? , Lormont, Le Bord de l’eau, Coll. Documents, 2023.
-- Reviews available in La vie des Idées (2024, https://laviedesidees.fr/Eric-Fabri-Pourquoi-la-propriete-privee ; in English : https://booksandideas.net/A-critique-of-the-ideology-of-property) ; Fabula (2024, https://www.fabula.org/actualites/120579/eric-fabri-pourquoi-la-propriete-privee.html) ; Revue philosophique, 2024/4, p. 565-566, Revue Européenne des Sciences Sociales, vol. 63/1, 2025, pp. 237-239 ; Revue française de science politique, vol 74, N°4, 2025, p. 771-772. 
-a. Théorie démocratique de la propriété, Paris, Editions Elliott, coll : « L’ordre des raisons » (Contract signed, forthcoming in 2027).
-Edited books and collective volumes:
-2. Autonomie ou Barbarie, la démocratie radicale de Cornélius Castoriadis et ses défis contemporains, (co-ed. with Manuel Cervera-Marzal), Neuvy-en-Champagne, Editions du Passager Clandestin, 2015.
-- Reviews available in Politis (2015, n°1359) ; S!lence, 2015, n°439, p.42 ; Revue française de science politique (2016/5, vol 66) ; Le Monde diplomatique (juin 2016) ; and in Spanish in Prometeica-Revista de Filosofía y Ciencias (2015, n°11)
-3. Souveraineté et néolibéralisme, (co-ed. with Thomas Boccon-Gibod, Martine Kaluszinsky, Odile Tourneux), Lormont, Le Bord de l’eau, 2023.
-	- Reviews available  in Lectures (https://journals.openedition.org/lectures/63696)
-4. Rendre le vivant politique, (co-ed. with Virginie Arantès and Krystel Wanneau), Bruxelles, Presses Universitaires de Bruxelles, 2025.
-- Reviews available in Daily Science (https://dailyscience.be/25/03/2025/le-devenir-politique-des-humains/?utm_source=copilot.com), Etudes, 2026/4, pp. 132-133.
-5. with Simon Watteyne (co-ed.), Debating Inheritance Tax in Europe: Legal, Economic and Philosophical Struggles from the 18th Century to the Present. Routledge, forthcoming (2027, contract signed and manuscript currently under evaluation).
-
-Direction of Special Issues:
-6. Special issue on “Why Private Property?” (codir. with Pierre Crétois and Maxime Lambrecht), Raisons Politiques, n°73, 2019/1 (Paris, Presses de Sciences Po). Online : https://www.cairn.info/revue-raisons-politiques-2019-1.htm 
-
-7. Special issue on “How does the ecological crisis challenge contemporary theories of property?” (co-ed.  with Pierre Crétois), Environmental Ethics, vol. 46, 1, 2024.
-Online:https://www.pdcnet.org/enviroethics/content/enviroethics_2024_0046_0001_0003_0008?file_type=pdf 
-
-8. Special issue on “The ecological limits of private property”, Ethics, Policy and Environment, (co-ed.  with Pierre Crétois), vol. 29, 2, 2026.  
-Online : https://www.tandfonline.com/toc/cepe21/current
-
-9. « Le socialisme de Karsenti au prisme de Castoriadis » in Les Nouveaux Cahiers Castoriadis, n°3, 2026 (forthcoming).
-
-Articles in peer-reviewed journals:                                                         
-
-10. “Legitimating property rights in a Property-Owning Democracy” in Diacritica, 2015, vol 29.2 pp. 43-64. Special issue on “Property-Owning Democracy”.
-11. « Socialisme et utopie, l’autonomie de Fourier à Castoriadis » in Tumultes, n°47, pp. 109-122, 2016.
-12. « De l’appropriation à la propriété, Locke ou la fécondité d’un malentendu devenu classique » in Philosophiques, vol 43/2, pp. 343-369, 2016.
-13. with Annette Ruelle (USL) ; « Le plus absolu des droits, entre désir idéel et idéal d’autonomie : l’invention de la propriété des anciens comparée à celle des modernes » in Revue interdisciplinaire d’études juridiques, n°81, pp. 109-176, 2018. 
-14. « Les nouvelles défenses de la propriété privée : libertarisme et droit naturel après Nozick », in Raisons politiques, n° 85/1, pp. 127-151, 2022.
-
-15. « À la recherche d’une théorie castoriadienne de la propriété », in Revue européenne des sciences sociales/ European Review of Social Sciences, pp. 183-208, n° 60/2, 2022.
-
-16. « Après la nature: le tournant du vivant et ses conséquences politiques » (with Virginie Arantès and Krystel Wanneau), in Politiques de Communication, Hors Série 2 (HS2), special issue on « Politiques des non humains : Animaux, Plantes, Robots, Aliens… », 2023, pp. 147-176.
-English and Spanish Translation :
-a.	After the nature: An ontological turn to the living in social sciences and its political implications 
-b.	El después de la naturaleza
-Available on CAIRN: https://shs.cairn.info/journal-politiques-de-communication-2023-HS2-page-147?lang=en&tab=resume 
-
-17. « Penser la propriété après la propriété privée » in Actuel Marx, n°77, 2025, pp. 172-189. 
-
-18. “Inheritance and Wealth Transfers: the Case for a Capital Accession Tax”, Journal of Public Policy, vol. 46, 1, pp. 50-74, 2026. 
-https://doi.org/10.1017/S0143814X25100895 
- 
-19. “The End of Democracy: Castoriadis and the Heteronomization Process”, Theory, Culture and Society, online first, Feb. 2026. https://doi.org/10.1177/0263276425141188
-
-20. « Ontologie politique et démocratie radicale : un argument normatif », in Les Nouveaux Cahiers Castoriadis, n°3, 2026 (forthcoming).
-
-21. « Socialisme et sociologie… et sociologie », in Les Nouveaux Cahiers Castoriadis, n°3, 2026 (forthcoming). Part of the Special Section : « Castoriadis au prisme de Karsenti ».
-
-22. « L’héritage contre la propriété : droit naturel et successions dans la pensée politique de John Locke », Droit & Philosophie (forthcoming 2027). 
-
-
-Papers currently under review in Political Theory international journals: 
-a.	“From Appropriation to Property. The structural mistake of entitlement theories”
-b.	“Nature, Domination and the Ideology of Property”
-
-Introductions to Special Issues
-23. with Pierre Crétois and Maxime Lambrecht, « Introduction » in Raisons Politiques, special issue on « Why Private Property?”, n°73/1, pp. 5-11, 2019.
-
-24. with Pierre Crétois, « Private Property Against the Environment? », in Environmental Ethics, vol 46, n°1, pp. 4-8, 2024.
-
-25. with Pierre Crétois, « Property, Environment, and the Question of Limits », in Ethics, Policy & Environment, vol. 29, 2, pp. 139-143, 2026,.  
-
-26. « Le socialisme de Karsenti au prisme de Castoriadis » in Les Nouveaux Cahiers Castoriadis, n°3, 2026 (forthcoming). 
-
- 
-Academic articles in non peer-reviewed journals:                                                         
-
-26. « Antigone aurait été zadiste » in Analyse, Opinion, Critique (AOC), published on 15/05/2018. Online : https://aoc.media/opinion/2018/05/15/antigone-aurait-ete-zadiste/
-
-27.  « Johny, les Français et l’héritage : que je t’aime... » in Analyse, Opinion, Critique (AOC), published on 4/12/2020. Online : https://aoc.media/analyse/2020/12/03/johnny-les-francais-et-lheritage-que-je-taime/ 
-
-28. « Diviser pour moins régner ? La solution de Mill pour un héritage plus égalitaire » in Politique, n°124, December 2023, Special Issue : « Faut-il supprimer l’héritage ? » 
-Online : https://www.revuepolitique.be/diviser-pour-moins-regner-la-solution-de-mill/ 
--------------- Special issue edited by Eric Fabri and Thibault Scohier.
-
-29. « Le libertarisme opportuniste de Javier Milei » in Analyse, Opinion, Critique (AOC), published on 13/02/2024. Online : https://aoc.media/analyse/2024/02/12/le-libertarisme-opportuniste-de-javier-milei/ 
-
-30. « Identifier, comprendre et résister à l’extrême-droite » (with Cl.Van Belleghem, M. Deleixhe, P.-E Vandamme, S. Van Outryve), in Politique, online, 17./2/2025 (https://www.revuepolitique.be/identifier-comprendre-et-resister-a-lextreme-droite/). 
-
-31. « La propriété privée comme idéologie politique », in Regards croisés sur l'économie, 2025/2, n° 37, pp. 30-39.
-
-32. « Parler de ‘vivant’ plutôt que de ‘nature’ : effet de mode ou tournant politique ? » (with V. Arantès and K. Wanneau), in The Conversation, online, 22/10/2025 (https://theconversation.com/parler-de-vivant-plutot-que-de-nature-effet-de-mode-ou-tournant-politique-267899).  
-
-33. « ‘Comme un roi sans sujets’ : Robinson Crusoé ou l’invention du propriétaire souverain », in La propriété, Exposition au Pavillon de l’Arsenal, Paris (forthcoming 2026). 
-
-Direction of non peer-reviewed journal special issues: 
-34. Special issue on “Héritage, le dernier tabou?” (with Thibault Scohier) in Politique, n°124, Winter 2023.
-
-
-Open Eds and ‘Cartes blanches’ in Mainstream Newspapers
-
-35: “Décroissance et confinement : les amalgames féconds de Georges-Louis Bouchez », Carte blanche in Le Vif, (12/04/2020). 
-Online : https://www.levif.be/belgique/decroissance-et-confinement-les-amalgames-feconds-de-georges-louis-bouchez/ 
-
-36. « Repenser l’héritage, comme des ingénieurs et comme des poètes », Carte blanche, published by Carta Academica in Le Soir (29/06/2024). Online : https://www.lesoir.be/598303/article/2024-06-29/carta-academica-repenser-lheritage-comme-des-ingenieurs-et-comme-des-poetes 
-
-Chapters in Collective Books:
-
-37. « Comment une société oublie-t-elle qu’elle a été autonome ? » in Cervera-Marzal, M. et Fabri, E. (ed.), Autonomie ou Barbarie, la démocratie radicale de Cornélius Castoriadis et ses défis contemporains, Paris, Editions du Passager Clandestin, 2015, pp. 161-182. 
-38. - with Manuel Cervera-Marzal : « (In)actualités de l’autonomie » in Cervera-Marzal, M. et Fabri, E. (ed.), Autonomie ou Barbarie, la démocratie radicale de Cornélius Castoriadis et ses défis contemporains, Paris, Editions du Passager Clandestin, 2015, pp. 11-49. 
-39. - with John Pitseys : « Que répondre à un martien qui vous demanderait ce qui s’est passé en théorie politique depuis 20 ans ? » in Faniel, J. (dir), et al., L’ABSP : 20 ans de science politique en Belgique francophone, Louvain-la-Neuve, Academia-l’Harmattan, 2017, p. 263-272.
-40. « Ontology », in Research Methods in the Social Sciences: An A-Z of key concepts, Oxford: Oxford University Press, edited by Jean-Frédéric Morin, Christian Olsson, and Ece Özlem Atikcan, 2021, p. 194-199. 
-Online: https://global.oup.com/ukhe/product/research-methods-in-the-social-sciences-an-a-z-of-key-concepts-9780198850298?cc=be&lang=en& 
-
-41. « La propriété et le constitutionnalisme d’origine » in Fontaine, L., Peiffert, O., et Brémand , N. (eds.) « Capitalisme, libéralisme et constitutionalisme », Paris, Mare et Martin ed., 2021, p. 29-62. 
-42. with Aurélien Hucq: « Le droit de l’environnement belge : écueil ou écrin de la rationalité néolibérale ? » in Evrard, Z. and Piron, D. (dir.) : Le(s) Néolibéralisme(s) en Belgique, Louvain-la-Neuve, Academia - l’Harmattan, 2023, pp. 229-246.
-43. « Enjeux politiques de l'ontologie : un argument en faveur de la démocratie radicale ». in Actes du 38ème Congrès de l’association des sociétés de philosophie de langue française, Paris, Vrin, forthcoming (Online publication – chapter accepted in April 2023). Available at ; https://archive-ouverte.vrin.fr/
-44. « Le vivant comme concept politique : état des lieux et perspectives » (with Krystel Wanneau and Virginie Arantes), Introduction to Rendre le vivant politique, Bruxelles, Editions de l’Université de Bruxelles, 2025, pp. 9-24.
-45. « Ontologie naturaliste et propriété : au-delà du vivant comme ’appropriandum’ », in Rendre le vivant politique, Bruxelles, Editions de l’Université de Bruxelles, 2025, pp. 29-46.
-46. « Les non-dits des non-lieux : l’utopie comme écotone et l’ontologie naturaliste » in « Utopia, Migration, Ecotone », ed. Justine Feyereisen, coll. Pocopages, Presses Universitaires de la Méditerranée, Montpellier, 2026, pp. 109-131. 
-47. “Why Tax Inheritance? A critical Examination of the philosophical debate” in Fabri, E. & Watteyne, S. (eds.), Debating Inheritance Tax in Europe: Legal, Economic and Philosophical Struggles from the 18th Century to the Present. Routledge, forthcoming (2027). 
-
-
-Peer reviewed contributions to Encyclopedia and Academic Dictionaries:
-
-48. Entry « Utopie », in L’encyclopédie philosophique: online: http://encyclo-philo.fr/utopie-gp/  . Published in January 2018. Peer Reviewed.
-
-49. Entry  « Les utopies socialistes ; avec ou sans travail ? » (with Clémence Nasr), in L’encyclopédie d'histoire numérique de l'Europe (https://ehne.fr/fr ), dossier « Travail ». Article available here. 
-
-50. Entry « Propriété (philosophie) » in Dictionnaire des droits de la nature, Paris, Presses Universitaires de France, 2026. 
-
-
-Book reviews: 
-
-51. Locke, J.,  Que faire des pauvres (Paris, Presses Universitaires de France, 2013) in « Revue Française de Science politique », n°64/1, 2014, pp.144-145.
-52. Crétois, C., Le renversement de l’individualisme possessif, de Hobbes à l’Etat social (Paris, Classiques Garnier, 2014) ; in « Actuel Marx », 2018/1, n°63, pp. 222-224. 
-53. Spitz, J.-F., La propriété de soi, Essai sur le sens de la liberté individuelle (Paris, Vrin, coll. Philosophie concrète, 2018), in « Implications philosophiques (espace de recherche et de diffusion) ». Published on 2/7/2018 : http://www.implications-philosophiques.org/ethique-et-politique/philosophie-politique/recension-la-propriete-de-soi-jean-fabien-spitz/ 
-
-54. Waldron, J., L’Etat de droit et la mesure de la propriété (Hermann, coll. L’avocat du Diable, 2022), in « Revue Française de Sciences Politiques », 2023/1, vol. 73, pp. 151-152.
-
-55. « Le trésor des seniors », review of : Masson, A., « Chronique d’un impôt sur l’héritage en perdition » (Paris, PUF, 2023), in « La vie des idées ». Online : https://laviedesidees.fr/Le-tresor-des-seniors 
+notes: |
+  This file was generated to provide a RenderCV-compatible YAML structure for
+  the site CV layout. It includes representative sections extracted from the
+  previous plain-text CV. For a more complete publications list and full entry
+  details, prefer using the site's bibliography (BibTeX) and publications page
+  which are managed separately (_bibliography/ and _data/citations.yml).
