@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Université de Lausanne, Centre Walras Pareto</a>. eric.fabri@unil.ch
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: asset/img/prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> Office 5224 </p>
