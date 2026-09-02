@@ -18,16 +18,15 @@ nav_order: 2
 }
 
 .publications h2 {
-  font-weight: 500;
-  font-size: 1.1rem;
+  font-weight: 600;
+  font-size: 1.15rem;
   margin-top: 2.5rem;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1rem;
   border-top: 2px solid #e0e0e0;
   border-bottom: none;
   padding-top: 1rem;
   padding-bottom: 0;
   color: #202020;
-  text-transform: capitalize;
 }
 
 .publications h2:first-of-type {
@@ -37,23 +36,22 @@ nav_order: 2
 }
 
 .publications h3 {
-  font-weight: 500;
-  font-size: 0.95rem;
+  font-weight: 600;
+  font-size: 1rem;
   margin-top: 1.8rem;
   margin-bottom: 1rem;
   color: #333;
-  text-transform: capitalize;
 }
 
 .publications ol {
   list-style-position: outside;
   margin-left: 0;
   padding-left: 1.5rem;
-  counter-reset: item;
 }
 
 .publications li {
-  margin-bottom: 1.2rem;
+  margin-bottom: 1.5rem;
+  margin-top: 1rem;
   line-height: 1.6;
 }
 
@@ -67,16 +65,7 @@ nav_order: 2
 }
 
 .pub-title {
-  font-weight: 500;
-  display: inline;
-}
-
-.pub-meta {
-  display: block;
-  margin-top: 0.2rem;
-  color: #555;
-  font-size: 0.9rem;
-  font-style: italic;
+  font-weight: 600;
 }
 
 .pub-note {
@@ -98,42 +87,24 @@ nav_order: 2
 
 .pub-sub-item {
   margin-left: 1.5rem;
-  margin-top: 0.8rem;
-  margin-bottom: 0.8rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
   line-height: 1.6;
-}
-
-.pub-links {
-  display: inline;
-  margin-left: 0.5rem;
-}
-
-.pub-links a {
-  margin-right: 0.5rem;
-  font-size: 0.85rem;
-  padding: 0.2rem 0.4rem;
-}
-
-.review-note {
-  display: block;
-  margin-top: 0.4rem;
-  margin-left: 0;
-  color: #666;
-  font-size: 0.88rem;
 }
 
 .under-review {
   margin-left: 1.5rem;
-  margin-bottom: 0.8rem;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
   color: #555;
 }
 </style>
 
 <div class="publications">
 
-## Books
+## **Books**
 
-### Monographies
+### **Monographies**
 
 1. <span class="pub-title">Pourquoi la propriété privée?</span> Lormont, Le Bord de l'eau, Coll. Documents, 2023.
 <span class="pub-note">Reviews available in <a href="https://laviedesidees.fr/Eric-Fabri-Pourquoi-la-propriete-privee">La vie des Idées</a> (2024); <a href="https://booksandideas.net/A-critique-of-the-ideology-of-property">Books and Ideas</a> (English, 2024); <a href="https://www.fabula.org/actualites/120579/eric-fabri-pourquoi-la-propriete-privee.html">Fabula</a> (2024); Revue philosophique, 2024/4, p. 565-566; Revue Européenne des Sciences Sociales, vol. 63/1, 2025, pp. 237-239; Revue française de science politique, vol 74, N°4, 2025, p. 771-772.</span>
@@ -142,7 +113,7 @@ nav_order: 2
 a. <span class="pub-title">Théorie démocratique de la propriété</span>, Paris, Editions Elliott, coll: "L'ordre des raisons" (Contract signed, forthcoming in 2027).
 </div>
 
-### Edited Books and Collective Volumes
+### **Edited Books and Collective Volumes**
 
 2. <span class="pub-title">Autonomie ou Barbarie, la démocratie radicale de Cornélius Castoriadis et ses défis contemporains</span>, (co-ed. with Manuel Cervera-Marzal), Neuvy-en-Champagne, Editions du Passager Clandestin, 2015.
 <span class="pub-note">Reviews available in Politis (2015, n°1359); S!lence, 2015, n°439, p.42; Revue française de science politique (2016/5, vol 66); Le Monde diplomatique (juin 2016); and in Spanish in Prometeica-Revista de Filosofía y Ciencias (2016).</span>
@@ -155,7 +126,7 @@ a. <span class="pub-title">Théorie démocratique de la propriété</span>, Pari
 
 5. <span class="pub-title">Debating Inheritance Tax in Europe: Legal, Economic and Philosophical Struggles from the 18th Century to the Present</span>, With Simon Watteyne (co-ed.), Routledge, forthcoming (2027, contract signed).
 
-## Edited Special Issues
+## **Edited Special Issues**
 
 6. <span class="pub-title">Why Private Property?</span> (codir. with Pierre Crétois and Maxime Lambrecht), Raisons Politiques, n°73, 2019/1 (Paris, Presses de Sciences Po). <a href="https://www.cairn.info/revue-raisons-politiques-2019-1.htm">[link]</a>
 
@@ -165,7 +136,7 @@ a. <span class="pub-title">Théorie démocratique de la propriété</span>, Pari
 
 9. <span class="pub-title">Le socialisme de Karsenti au prisme de Castoriadis</span>, in Les Nouveaux Cahiers Castoriadis, n°3, 2026 (forthcoming).
 
-## Articles in Peer-Reviewed Journals
+## **Articles in Peer-Reviewed Journals**
 
 10. <span class="pub-title">Legitimating property rights in a Property-Owning Democracy.</span> Diacritica, 2015, vol 29.2, pp. 43-64. <a href="https://cehum.elach.uminho.pt/cehum/static/publications/diacritica_29-2.pdf">[pdf]</a>
 
@@ -194,13 +165,13 @@ a. <span class="pub-title">Théorie démocratique de la propriété</span>, Pari
 
 22. <span class="pub-title">L'héritage contre la propriété: droit naturel et successions dans la pensée politique de John Locke.</span> Droit & Philosophie (forthcoming 2027).
 
-### Papers Under Review
+### **Papers Under Review**
 
 <div class="under-review">a. From Appropriation to Property. The structural mistake of entitlement theories.</div>
 
 <div class="under-review">b. Nature, Domination and the Ideology of Property.</div>
 
-## Introductions to Special Issues
+## **Introductions to Special Issues**
 
 23. <span class="pub-title">Introduction.</span> With Pierre Crétois and Maxime Lambrecht. Raisons Politiques, special issue on "Why Private Property?", n°73/1, pp. 5-11, 2019. <a href="https://shs.cairn.info/journal-raisons">[link]</a>
 
@@ -210,7 +181,7 @@ a. <span class="pub-title">Théorie démocratique de la propriété</span>, Pari
 
 26. <span class="pub-title">Le socialisme de Karsenti au prisme de Castoriadis.</span> Les Nouveaux Cahiers Castoriadis, n°3, 2026 (forthcoming).
 
-## Academic Articles in Non Peer-Reviewed Journals
+## **Academic Articles in Non Peer-Reviewed Journals**
 
 27. <span class="pub-title">Antigone aurait été zadiste.</span> Analyse, Opinion, Critique (AOC), published 15/05/2018. <a href="https://aoc.media/opinion/2018/05/15/antigone-aurait-ete-zadiste/">[link]</a>
 
@@ -228,17 +199,17 @@ a. <span class="pub-title">Théorie démocratique de la propriété</span>, Pari
 
 34. <span class="pub-title">'Comme un roi sans sujets': Robinson Crusoé ou l'invention du propriétaire souverain.</span> La propriété, Exposition au Pavillon de l'Arsenal, Paris (forthcoming 2026).
 
-## Edited Special Issues (Non Peer-Reviewed)
+## **Edited Special Issues (Non Peer-Reviewed)**
 
 35. <span class="pub-title">Héritage, le dernier tabou?</span> (with Thibault Scohier). Politique, n°124, Winter 2023.
 
-## Open Editorials and 'Cartes Blanches' in Mainstream Newspapers
+## **Open Editorials and 'Cartes Blanches' in Mainstream Newspapers**
 
 36. <span class="pub-title">Décroissance et confinement: les amalgames féconds de Georges-Louis Bouchez.</span> Carte blanche in Le Vif, 12/04/2020. <a href="https://www.levif.be/belgique/decroissance-et-confinement-les-amal">[link]</a>
 
 37. <span class="pub-title">Repenser l'héritage, comme des ingénieurs et comme des poètes.</span> Carte blanche, published by Carta Academica in Le Soir, 29/06/2024. <a href="https://www.lesoir.be/598303/article/2024-06-29/">[link]</a>
 
-## Chapters in Collective Books
+## **Chapters in Collective Books**
 
 38. <span class="pub-title">Comment une société oublie-t-elle qu'elle a été autonome?</span> In Cervera-Marzal, M. & Fabri, E. (ed.), Autonomie ou Barbarie, la démocratie radicale de Cornélius Castoriadis et ses défis contemporains, pp. 223-244, 2015.
 
@@ -262,7 +233,7 @@ a. <span class="pub-title">Théorie démocratique de la propriété</span>, Pari
 
 48. <span class="pub-title">Why Tax Inheritance? A critical Examination of the philosophical debate.</span> In Fabri, E. & Watteyne, S. (eds.), Debating Inheritance Tax in Europe: Legal, Economic and Philosophical Struggles from the 18th Century to the Present, Routledge, 2027.
 
-## Peer Reviewed Contributions to Encyclopedias and Academic Dictionaries
+## **Peer Reviewed Contributions to Encyclopedias and Academic Dictionaries**
 
 49. <span class="pub-title">Utopie.</span> L'encyclopédie philosophique, online, January 2018. <a href="http://encyclo-philo.fr/utopie-gp/">[link]</a>
 
@@ -270,7 +241,7 @@ a. <span class="pub-title">Théorie démocratique de la propriété</span>, Pari
 
 51. <span class="pub-title">Propriété (philosophie).</span> Dictionnaire des droits de la nature, Paris, Presses Universitaires de France, 2026.
 
-## Book Reviews
+## **Book Reviews**
 
 52. <span class="pub-title">Locke, J., Que faire des pauvres</span> (Paris, Presses Universitaires de France, 2013). Revue Française de Science politique, n°64/1, pp. 144-145, 2014.
 
@@ -280,6 +251,6 @@ a. <span class="pub-title">Théorie démocratique de la propriété</span>, Pari
 
 55. <span class="pub-title">Waldron, J., L'Etat de droit et la mesure de la propriété</span> (Hermann, coll. L'avocat du Diable, 2022). Revue Française de Sciences Politiques, 2023/1, vol. 73, pp. 151-152.
 
-56. <span class="pub-title">Le trésor des seniors.</span> Review of Masson, A., Chronique d'un impôt sur l'héritage en perdition (Paris, PUF, 2023). La vie des idées. <a href="https://laviedesidees.fr/Le-tresor-des-seniors">[link]</a>
+56. <span class="pub-title">Le trésor des seniors.</span> Review of Masson, A., Chronique d'un impôt sur l'héritage en perdition (Paris, PUF, 2023). La vie des idées. <a href="https://laviedesideas.fr/Le-tresor-des-seniors">[link]</a>
 
 </div>
