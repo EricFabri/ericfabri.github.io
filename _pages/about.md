@@ -6,7 +6,7 @@ subtitle: <a href='https://www.unil.ch/ssp/fr/home/menuinst/faculte/iep/membres.
 
 profile:
   align: right
-  image: assets/img/prof_pic.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> Office 5224 </p>
