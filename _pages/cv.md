@@ -19,7 +19,7 @@ His research lies at the intersection of the history of ideas and social, econom
 
 ---
 
-Détails complets dans le CV en pdf.
+Plus de détails dans le long CV en pdf.
 
 ### Note biographique
 
