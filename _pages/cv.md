@@ -1,11 +1,16 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/FabriCV26.pdf
 ---
+
+<div class="cv-pdf-button" style="margin-bottom: 2rem;">
+  <a href="/assets/pdf/FabriCV26.pdf" class="btn btn-outline-primary" target="_blank" rel="noopener">
+    📄 Download Full CV (PDF)
+  </a>
+</div>
 
 Full details can be found in the CV (PDF).
 
@@ -19,7 +24,7 @@ His research lies at the intersection of the history of ideas and social, econom
 
 ---
 
-Plus de détails dans le long CV en pdf.
+Détails complets dans le CV en pdf.
 
 ### Note biographique
 
