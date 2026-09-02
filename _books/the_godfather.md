@@ -1,22 +1,29 @@
 ---
 layout: book-review
-title: Pourquoi la propriété ? 
-author: Eric Fabri
+title: The Godfather
+author: Mario Puzo
 cover: assets/img/book_covers/the_godfather.jpg
 olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 7539967447 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: Theorie politique
-tags: propriété prviée, théorie démocratique de la propriété
-buy_link: https://www.editionsbdl.com/produit/pourquoi-la-propriete-privee/
-date: 2026
-
+categories: classics crime historical-fiction mystery novels thriller
+tags: top-100
+buy_link: https://www.amazon.com/Godfather-Deluxe-Mario-Puzo/dp/0593542592
+date: 2024-08-23
+started: 2024-08-23
+finished: 2024-09-07
+released: 1969
+stars: 5
+goodreads_review: 6318556633
+status: Finished
 ---
-Existe-t-il encore une justification de la propriété privée susceptible d’emporter le jugement académique comme celui du grand public ?
 
-Concept peu problématique aux yeux de la majorité qui s’en accommode fort bien, la propriété privée est sous le feu de nombreuses critiques qui y voient la cause de la crise écologique et des inégalités économiques et sociales. Alors que les uns voient dans ce droit un des axiomes du libéralisme moderne, les autres soulignent la nécessité de réorganiser les rapports propriétaires. Se pourrait-il que les arguments des premiers rendent illégitimes les efforts des seconds ?
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin eros sit amet ante aliquet, sit amet vulputate lectus mattis. Aenean ullamcorper pretium nunc, sed egestas lorem elementum id. Nulla id mi id neque ultrices egestas ut in urna. Sed ac ultricies nunc. Nam convallis placerat urna id egestas. Nulla porta, est interdum vestibulum venenatis, lorem odio laoreet sapien, in pulvinar tellus eros a dolor. Vivamus sapien justo, ullamcorper a mi eget, scelerisque euismod nunc. In augue augue, ultrices a ornare non, tincidunt quis justo. Donec sit amet consectetur eros. Nullam neque leo, tincidunt id ipsum ac, volutpat lobortis mi. Phasellus consequat ultricies arcu, eu semper ligula ultrices eget. Ut in fringilla elit, ac tincidunt nisi.
 
-C’est à répondre à cette question que s’emploie cet ouvrage en analysant les principaux arguments utilisés dans le débat contemporain pour justifier l’existence de la propriété privée. Trois arguments sont plus particulièrement étudiés : la justification de la propriété privée par le travail, par l’efficience économique dont elle serait la cause, ainsi que par la liberté individuelle qu’elle rend possible.
+Nunc commodo elit nec turpis feugiat consectetur. Nullam in nisi egestas, fermentum ligula hendrerit, euismod enim. Nulla eu hendrerit eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et velit ante. Vestibulum pretium vitae quam et sagittis. Proin eu nunc vel velit accumsan eleifend. Nulla facilisis, diam tempus imperdiet ultrices, massa ipsum consequat orci, sed efficitur eros mi a felis. Cras lobortis turpis sem, sed lobortis nunc ullamcorper tristique. Nam vehicula rhoncus ante, in faucibus sapien scelerisque et. Donec semper libero et tincidunt mattis. In vestibulum, nulla pretium dictum commodo, risus nulla vestibulum felis, at tincidunt massa mi in odio. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 
-Cet ouvrage nécessaire expose les difficultés et les impasses des arguments mobilisés dans le débat contemporain pour justifier la propriété privée. Il pose les bases d’une réflexion pour une nouvelle théorie démocratique de la propriété débarrassée du spectre de l’absolutisme propriétaire. Il s’adresse tant à la citoyenne ou au militant qu’aux académiques qui y trouveront des discussions accessibles mais pointues des principales justifications de la propriété privée.
+Donec efficitur ultrices purus sit amet imperdiet. Nam consequat metus in erat sodales faucibus. Aliquam maximus fermentum nulla id finibus. Aliquam iaculis sed odio vel rutrum. Curabitur sed odio est. Praesent nec sollicitudin tortor. Praesent pharetra, turpis quis porttitor rhoncus, ante massa fringilla lacus, nec porttitor magna turpis vitae felis. Nullam tristique massa id odio imperdiet, nec sodales massa egestas. Proin nisi metus, euismod sed accumsan vitae, facilisis vel risus. Morbi suscipit auctor erat, nec viverra elit fringilla eu. Mauris congue, purus id tristique facilisis, felis nisi efficitur magna, eu consectetur augue sem vitae lacus. Aliquam erat volutpat. Cras at nibh ultricies, volutpat arcu vitae, dictum est. In ac dolor sagittis, egestas lectus et, semper nisl. Etiam consectetur purus vitae sapien porttitor auctor.
 
- 
+Nulla sit amet venenatis odio. Suspendisse ac lacus quis augue mollis tempus vel in lorem. Donec augue turpis, eleifend nec nibh eu, elementum dictum metus. Proin ut est ligula. Etiam vehicula facilisis metus, sit amet consectetur risus ullamcorper porttitor. In congue nibh quis sollicitudin iaculis. Donec a mollis lorem, non mollis lacus. Nulla et leo ex. Aliquam erat volutpat. Nam sit amet tincidunt mauris. Vivamus vitae est sit amet nisi semper egestas. Donec in diam pharetra, commodo diam vitae, imperdiet ligula. Cras iaculis ac diam eget vehicula. Proin suscipit ante enim, quis vehicula mi porta bibendum. Aliquam a diam porttitor, sollicitudin justo vitae, tempor odio.
+
+Cras fermentum dignissim pretium. Donec quis turpis eu neque lacinia facilisis in sit amet nibh. Nulla non tortor ultricies, euismod est in, blandit nibh. Ut a neque metus. Sed convallis condimentum nibh quis finibus. Praesent aliquam sem iaculis eros maximus accumsan. Nulla venenatis mauris id aliquet maximus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at enim vitae ex porttitor vestibulum sed eget nibh. Suspendisse accumsan feugiat quam eget ultricies.
+
