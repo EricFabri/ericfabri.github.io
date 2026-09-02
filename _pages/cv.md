@@ -7,8 +7,7 @@ nav_order: 5
 cv_pdf: /assets/pdf/Curriculum Vitae Eric Fabri - (en-acad.) - AUG26.pdf # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
 description:
-
-Employment                                                   (Anti-chronological order)
+'Employment                                                   (Anti-chronological order)
 
 Full time :
 Since 2026 : Assistant Professor (tenure track) in History of Political Ideas, Université de Lausanne.  
@@ -29,7 +28,7 @@ Education
 2009-2012: Master degree in Philosophy (120 ECTS), Université Catholique de Louvain, Grande Distinction (Magna cum laude). 
 2009-2011: Master degree in Political Sciences (120 ECTS), Université Catholique de Louvain, Grande Distinction (Magna cum laude). 
 2006-2009: Bachelor degree in Political Sciences, Facultés universitaires Saint-Louis (now UCLouvain Saint-Louis Bruxelles); Distinction (Cum laude).
-Bachelor degree in Philosophy, Facultés universitaires Saint-Louis, Grande distinction (Magna cum laude).
+Bachelor degree in Philosophy, Facultés universitaires Saint-Louis, Grande distinction (Magna cum laude)'
 
 
 
