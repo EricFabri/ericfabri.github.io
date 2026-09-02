@@ -7,10 +7,10 @@ nav_order: 5
 cv_pdf: /assets/pdf/Curriculum Vitae Eric Fabri - (en-acad.) - AUG26.pdf # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
 description:
-'Employment                                                   (Anti-chronological order)
+Employment                                                   (Anti-chronological order)
 
-Full time :
-Since 2026 : Assistant Professor (tenure track) in History of Political Ideas, Université de Lausanne.  
+Full time 
+Since 2026  Assistant Professor (tenure track) in History of Political Ideas, Université de Lausanne.  
 2024-2026: Postdoctoral Researcher, Chargé de recherche FNRS, Université libre de Bruxelles.
 2020-2021; 2022-2024: Postdoctoral Researcher, Faculty of Philosophy and Social Sciences, Université libre de Bruxelles (one year interruption in 2021-22 for the BAEF postdoc).
 2021-2022: BAEF Postdoctoral Fellow, Harvard University, Department of Government.
