@@ -1,12 +1,13 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/FabriCV26.pdf
+
 email: eric.Fabri@unil.ch
 inspirehep_id: 1010907 # Inspire HEP author ID
 rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: C2rudEYAAAAJ&hl
-custom_social: Eric Fabri # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+custom_social:
+  name: ResearchGate
+  logo: https://www.researchgate.net/favicon.ico
+  title: ResearchGate
+  url: https://www.researchgate.net/profile/Eric-Fabri?ev=hdr_xprf
