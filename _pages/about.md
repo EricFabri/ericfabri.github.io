@@ -28,13 +28,12 @@ latest_posts:
 ---
 
 Éric Fabri est Professeur assistant en PTC à l’Université de Lausanne, où il enseigne l’histoire des idées et la théorie politique.
-Ses recherches portent plus particulièrement sur la philosophie de la propriété, la taxation juste des héritages, l’ontologie sociale et ses enjeux pour une politique émancipatrice, la philosophie du vivant et la démocratisation de l’économie.
-Titulaire d’un doctorat de l’Université libre de Bruxelles (ULB), il a mené des recherches postdoctorales à Oxford et à Harvard. C’est au cours de ces années postdoctorales qu’il a commencé à développer une philosophie de l’héritage, s’inscrivant dans le cadre d’une théorie démocratique  plus large de la propriété.
+Ses recherches portent plus particulièrement sur la philosophie de la propriété, la taxation juste des héritages, l’ontologie sociale et ses enjeux pour une politique émancipatrice, la philosophie du vivant et la démocratisation de l’économie. Titulaire d’un doctorat de l’Université libre de Bruxelles (ULB), il a par la suite mené ses recherches à Oxford et à Harvard. C’est au cours de ces années postdoctorales qu’il a commencé à développer une philosophie de l’héritage, s’inscrivant dans le cadre d’une théorie démocratique  plus large de la propriété. Il ambitionne à présent d'articuler une philosophie du vivant avec une théorie démocratique de la propriété qui permette de penser une économie au service de la politique démcoratique.
 
 ---
 Eric Fabri is  Assistant Professor at the University of Lausanne, where he teaches the history of ideas and the philosophy of economy.
-His research in political theory spans economic, social, and political philosophy. He focuses in particular on the philosophy of property, just inheritance taxation, social ontology and its implications for political emancipation, the philosophy of the living, and the democratisation of the economy.
-He holds a PhD from Université libre de Bruxelles (ULB) and completed postdoctoral research at Oxford and Harvard. It was during these postdoctoral years that he began developing a philosophy of inheritance, as part of a broader radical democratic theory of property.
+His research in political theory spans economic, social, and political philosophy. He focuses in particular on the philosophy of property, just inheritance taxation, social ontology and its implications for political emancipation, the philosophy of the living, and the democratisation of the economy. He holds a PhD from Université libre de Bruxelles (ULB) and completed postdoctoral research at Oxford and Harvard. It was during these postdoctoral years that he began developing a philosophy of inheritance, as part of a broader radical democratic theory of property. He now aims to combine a philosophy of the living (vivant) with a democratic theory of property that enables us to conceive of an economy at the service of democratic politics.
+
 
 ---
 Selected books & papers:
