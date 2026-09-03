@@ -1,3 +1,12 @@
+---
+layout: page
+permalink: /publications/
+title: publications
+description: publications by categories
+nav: true
+nav_order: 2
+---
+
 <style>
 :root {
   --global-theme-color: #00779A !important;
@@ -19,14 +28,6 @@ html[data-theme="dark"] {
 }
 </style>
 
----
-layout: page
-permalink: /publications/
-title: publications
-description: publications by categories
-nav: true
-nav_order: 2
----
 
 <style>
 .publications {
