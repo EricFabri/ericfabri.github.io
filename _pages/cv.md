@@ -1,3 +1,11 @@
+---
+layout: page
+permalink: /cv/
+title: CV
+nav: true
+nav_order: 5
+---
+
 <style>
 :root {
   --global-theme-color: #00779A !important;
@@ -18,13 +26,6 @@ html[data-theme="dark"] {
   color: #00779A !important;
 }
 </style>
----
-layout: page
-permalink: /cv/
-title: CV
-nav: true
-nav_order: 5
----
 
 <div class="cv-pdf-button" style="margin-bottom: 2rem;">
   <a href="/assets/pdf/FabriCV26.pdf" class="btn btn-outline-primary" target="_blank" rel="noopener">
