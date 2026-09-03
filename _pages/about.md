@@ -1,3 +1,4 @@
+---
 <style>
 :root {
   --global-theme-color: #00779A !important;
@@ -18,7 +19,7 @@ html[data-theme="dark"] {
   color: #00779A !important;
 }
 </style>
----
+
 layout: about
 title: about
 permalink: /
