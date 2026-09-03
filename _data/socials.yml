@@ -2,12 +2,10 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 
-email: eric.Fabri@unil.ch
-inspirehep_id: 1010907 # Inspire HEP author ID
+email: eric.fabri@unil.ch
 rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: C2rudEYAAAAJ&hl
 custom_social:
-  name: ResearchGate
-  logo: https://www.researchgate.net/favicon.ico
+  logo: https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/researchgate.svg
   title: ResearchGate
   url: https://www.researchgate.net/profile/Eric-Fabri?ev=hdr_xprf
