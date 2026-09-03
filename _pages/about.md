@@ -27,10 +27,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Eric Fabri is an Assistant Professor at the University of Lausanne, where he teaches the history of ideas and the philosophy of economy.
-His research in political theory spans economic, social, and political philosophy. He focuses in particular on the philosophy of property, social ontology (drawing on Castoriadis), the philosophy of the living, and the democratization of the economy.
-He holds a PhD from the Université libre de Bruxelles (ULB) and completed postdoctoral research at Oxford and Harvard. It was during these postdoctoral years that he began developing a philosophy of inheritance, as part of a broader radical democratic theory of property.
+Éric Fabri est Professeur assistant en PTC à l’Université de Lausanne, où il enseigne l’histoire des idées et la théorie politique.
+Ses recherches portent plus particulièrement sur la philosophie de la propriété, la taxation juste des héritages, l’ontologie sociale et ses enjeux pour une politique émancipatrice, la philosophie du vivant et la démocratisation de l’économie.
+Titulaire d’un doctorat de l’Université libre de Bruxelles (ULB), il a mené des recherches postdoctorales à Oxford et à Harvard. C’est au cours de ces années postdoctorales qu’il a commencé à développer une philosophie de l’héritage, s’inscrivant dans le cadre d’une théorie démocratique  plus large de la propriété.
 
+---
+Eric Fabri is  Assistant Professor at the University of Lausanne, where he teaches the history of ideas and the philosophy of economy.
+His research in political theory spans economic, social, and political philosophy. He focuses in particular on the philosophy of property, just inheritance taxation, social ontology and its implications for political emancipation, the philosophy of the living, and the democratisation of the economy.
+He holds a PhD from Université libre de Bruxelles (ULB) and completed postdoctoral research at Oxford and Harvard. It was during these postdoctoral years that he began developing a philosophy of inheritance, as part of a broader radical democratic theory of property.
+
+---
 Selected books & papers:
 
 - "The End of Democracy: Castoriadis and the Heteronomization Process", Theory, Culture and Society, online first, Feb. 2026. [https://doi.org/10.1177/0263276425141188](https://doi.org/10.1177/0263276425141188)
