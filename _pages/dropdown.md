@@ -1,3 +1,17 @@
+---
+layout: page
+title: submenus
+nav: false
+nav_order: 8
+dropdown: true
+children:
+  - title: bookshelf
+    permalink: /books/
+  - title: divider
+  - title: blog
+    permalink: /blog/
+---
+
 <style>
 :root {
   --global-theme-color: #00779A !important;
@@ -18,16 +32,3 @@ html[data-theme="dark"] {
   color: #00779A !important;
 }
 </style>
----
-layout: page
-title: submenus
-nav: false
-nav_order: 8
-dropdown: true
-children:
-  - title: bookshelf
-    permalink: /books/
-  - title: divider
-  - title: blog
-    permalink: /blog/
----
